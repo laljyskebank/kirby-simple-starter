@@ -1,13 +1,10 @@
 import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { HomeComponent } from './home.component';
-import {KirbyModule} from '@kirbydesign/designsystem';
+import { KirbyModule } from '@kirbydesign/designsystem';
 
 @NgModule({
   declarations: [HomeComponent],
-  imports: [
-    CommonModule,
-    KirbyModule
-  ]
+  imports: [CommonModule, KirbyModule],
 })
-export class HomeModule { }
+export class HomeModule {}
