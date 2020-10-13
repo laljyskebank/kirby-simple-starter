@@ -8,7 +8,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 For at omdøbe projektet skal følgende gøres
 
-- Åbn projektet og udfør søg og erstat i alle filer "kirby-simple-starter" med det navn som projektet skal hedde.
+- Åbn projektet og udfør søg og erstat i alle filer "kirby-simple-starter" med det navn som projektet skal hedde. Vigtigt at markere **"Match whole word"** 
 
 ---
 
